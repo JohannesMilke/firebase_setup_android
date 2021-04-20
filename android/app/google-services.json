@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077254148332",
+    "project_id": "setup-fb",
+    "storage_bucket": "setup-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077254148332:android:30b1a1166218b0583655c9",
+        "android_client_info": {
+          "package_name": "com.johannesmilke.firebase_setup_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077254148332-8ereagvrnf4q9ain45bgtf6rm36rr2t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjEeG6IJa3TvGu0D3-wjOigUzkk6-hY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077254148332-8ereagvrnf4q9ain45bgtf6rm36rr2t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
